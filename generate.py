@@ -1,12 +1,23 @@
 import numpy as np
 import cv2 as cv
 
+# Length of the tag in mm
 aruco_length = 28
+
+# Padding on one side of the tag in mm
 padding = 2
+
+# Width of margin on one side
 margin = 10
-cols = 5
+
+# Number of rows/columns of aruco tags
 rows = 4
+cols = 5
+
+# Starting id for tags (DICT_4X4_100)
 start_id = 10
+
+# Number of pixels for generating .pngs
 aruco_pixels = 2048
 
 
