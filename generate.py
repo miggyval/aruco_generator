@@ -5,7 +5,7 @@ import cv2 as cv
 aruco_length = 28
 
 # Padding on one side of the tag in mm
-padding = 2
+padding = 1
 
 # Width of margin on one side
 margin = 10
@@ -18,7 +18,7 @@ cols = 5
 start_id = 10
 
 # Number of pixels for generating .pngs
-aruco_pixels = 2048
+aruco_pixels = 1024
 
 
 def generate_aruco():
@@ -27,7 +27,7 @@ def generate_aruco():
         for j in range(cols):
             id = start_id + (i * cols + j)
             tag = np.zeros((aruco_pixels, aruco_pixels, 1), dtype="uint8")
-            cv.aruco.drawMarker(aruco_dict, id, 2048, tag)
+            cv.aruco.drawMarker(aruco_dict, id, aruco_pixels, tag)
             cv.imwrite(f"tags/tag_{id}.png", tag)
     with open('tags.svg', 'w+') as file:
         file.write(f'<svg width="100%" height="100%" viewBox="0 0 {2 * margin + cols * (aruco_length + 2 * padding)}mm {2 * margin + rows * (aruco_length + 2 * padding)}mm" version="1.1" xmlns="http://www.w3.org/2000/svg">')

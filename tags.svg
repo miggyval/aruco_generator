@@ -1,43 +1,43 @@
-<svg width="100%" height="100%" viewBox="0 0 180mm 148mm" version="1.1" xmlns="http://www.w3.org/2000/svg">	<rect width="180mm" height="148mm" x="0mm" y="0mm" fill-opacity="0" stroke-width="0.5mm" stroke="black"/>
+<svg width="100%" height="100%" viewBox="0 0 170mm 140mm" version="1.1" xmlns="http://www.w3.org/2000/svg">	<rect width="170mm" height="140mm" x="0mm" y="0mm" fill-opacity="0" stroke-width="0.5mm" stroke="black"/>
 
-	<rect width="32mm" height="32mm" x="10mm" y="10mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<rect width="32mm" height="32mm" x="42mm" y="10mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<rect width="32mm" height="32mm" x="74mm" y="10mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<rect width="32mm" height="32mm" x="106mm" y="10mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<rect width="32mm" height="32mm" x="138mm" y="10mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<rect width="32mm" height="32mm" x="10mm" y="42mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<rect width="32mm" height="32mm" x="42mm" y="42mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<rect width="32mm" height="32mm" x="74mm" y="42mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<rect width="32mm" height="32mm" x="106mm" y="42mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<rect width="32mm" height="32mm" x="138mm" y="42mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<rect width="32mm" height="32mm" x="10mm" y="74mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<rect width="32mm" height="32mm" x="42mm" y="74mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<rect width="32mm" height="32mm" x="74mm" y="74mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<rect width="32mm" height="32mm" x="106mm" y="74mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<rect width="32mm" height="32mm" x="138mm" y="74mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<rect width="32mm" height="32mm" x="10mm" y="106mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<rect width="32mm" height="32mm" x="42mm" y="106mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<rect width="32mm" height="32mm" x="74mm" y="106mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<rect width="32mm" height="32mm" x="106mm" y="106mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<rect width="32mm" height="32mm" x="138mm" y="106mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
-	<image x="12mm" y="12mm" width="28mm" height="28mm" href="tags/tag_10.png" />
-	<image x="44mm" y="12mm" width="28mm" height="28mm" href="tags/tag_11.png" />
-	<image x="76mm" y="12mm" width="28mm" height="28mm" href="tags/tag_12.png" />
-	<image x="108mm" y="12mm" width="28mm" height="28mm" href="tags/tag_13.png" />
-	<image x="140mm" y="12mm" width="28mm" height="28mm" href="tags/tag_14.png" />
-	<image x="12mm" y="44mm" width="28mm" height="28mm" href="tags/tag_15.png" />
-	<image x="44mm" y="44mm" width="28mm" height="28mm" href="tags/tag_16.png" />
-	<image x="76mm" y="44mm" width="28mm" height="28mm" href="tags/tag_17.png" />
-	<image x="108mm" y="44mm" width="28mm" height="28mm" href="tags/tag_18.png" />
-	<image x="140mm" y="44mm" width="28mm" height="28mm" href="tags/tag_19.png" />
-	<image x="12mm" y="76mm" width="28mm" height="28mm" href="tags/tag_20.png" />
-	<image x="44mm" y="76mm" width="28mm" height="28mm" href="tags/tag_21.png" />
-	<image x="76mm" y="76mm" width="28mm" height="28mm" href="tags/tag_22.png" />
-	<image x="108mm" y="76mm" width="28mm" height="28mm" href="tags/tag_23.png" />
-	<image x="140mm" y="76mm" width="28mm" height="28mm" href="tags/tag_24.png" />
-	<image x="12mm" y="108mm" width="28mm" height="28mm" href="tags/tag_25.png" />
-	<image x="44mm" y="108mm" width="28mm" height="28mm" href="tags/tag_26.png" />
-	<image x="76mm" y="108mm" width="28mm" height="28mm" href="tags/tag_27.png" />
-	<image x="108mm" y="108mm" width="28mm" height="28mm" href="tags/tag_28.png" />
-	<image x="140mm" y="108mm" width="28mm" height="28mm" href="tags/tag_29.png" />
+	<rect width="30mm" height="30mm" x="10mm" y="10mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<rect width="30mm" height="30mm" x="40mm" y="10mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<rect width="30mm" height="30mm" x="70mm" y="10mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<rect width="30mm" height="30mm" x="100mm" y="10mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<rect width="30mm" height="30mm" x="130mm" y="10mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<rect width="30mm" height="30mm" x="10mm" y="40mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<rect width="30mm" height="30mm" x="40mm" y="40mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<rect width="30mm" height="30mm" x="70mm" y="40mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<rect width="30mm" height="30mm" x="100mm" y="40mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<rect width="30mm" height="30mm" x="130mm" y="40mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<rect width="30mm" height="30mm" x="10mm" y="70mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<rect width="30mm" height="30mm" x="40mm" y="70mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<rect width="30mm" height="30mm" x="70mm" y="70mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<rect width="30mm" height="30mm" x="100mm" y="70mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<rect width="30mm" height="30mm" x="130mm" y="70mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<rect width="30mm" height="30mm" x="10mm" y="100mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<rect width="30mm" height="30mm" x="40mm" y="100mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<rect width="30mm" height="30mm" x="70mm" y="100mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<rect width="30mm" height="30mm" x="100mm" y="100mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<rect width="30mm" height="30mm" x="130mm" y="100mm" fill-opacity="0" stroke-width="0.2mm" stroke="black" stroke-dasharray="1 2"/>
+	<image x="11mm" y="11mm" width="28mm" height="28mm" href="tags/tag_10.png" />
+	<image x="41mm" y="11mm" width="28mm" height="28mm" href="tags/tag_11.png" />
+	<image x="71mm" y="11mm" width="28mm" height="28mm" href="tags/tag_12.png" />
+	<image x="101mm" y="11mm" width="28mm" height="28mm" href="tags/tag_13.png" />
+	<image x="131mm" y="11mm" width="28mm" height="28mm" href="tags/tag_14.png" />
+	<image x="11mm" y="41mm" width="28mm" height="28mm" href="tags/tag_15.png" />
+	<image x="41mm" y="41mm" width="28mm" height="28mm" href="tags/tag_16.png" />
+	<image x="71mm" y="41mm" width="28mm" height="28mm" href="tags/tag_17.png" />
+	<image x="101mm" y="41mm" width="28mm" height="28mm" href="tags/tag_18.png" />
+	<image x="131mm" y="41mm" width="28mm" height="28mm" href="tags/tag_19.png" />
+	<image x="11mm" y="71mm" width="28mm" height="28mm" href="tags/tag_20.png" />
+	<image x="41mm" y="71mm" width="28mm" height="28mm" href="tags/tag_21.png" />
+	<image x="71mm" y="71mm" width="28mm" height="28mm" href="tags/tag_22.png" />
+	<image x="101mm" y="71mm" width="28mm" height="28mm" href="tags/tag_23.png" />
+	<image x="131mm" y="71mm" width="28mm" height="28mm" href="tags/tag_24.png" />
+	<image x="11mm" y="101mm" width="28mm" height="28mm" href="tags/tag_25.png" />
+	<image x="41mm" y="101mm" width="28mm" height="28mm" href="tags/tag_26.png" />
+	<image x="71mm" y="101mm" width="28mm" height="28mm" href="tags/tag_27.png" />
+	<image x="101mm" y="101mm" width="28mm" height="28mm" href="tags/tag_28.png" />
+	<image x="131mm" y="101mm" width="28mm" height="28mm" href="tags/tag_29.png" />
 </svg>
