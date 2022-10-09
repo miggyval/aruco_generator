@@ -7,6 +7,5 @@ pip install opencv-contrib-python
 ```
 # Usage:
 ```
-mkdir tags
 python3 generate.py
 ```
